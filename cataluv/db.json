@@ -1,0 +1,44 @@
+{
+	category: [
+		{
+			id: 1,
+			name: 'blousse',
+			icon: 'icon__blouse.png',
+		},
+		{
+			id: 2,
+			name: 'dress',
+			icon: 'icon__dress.png',
+		},
+		{
+			id: 3,
+			name: 'robe',
+			icon: 'icon__robe.png',
+		},
+		{
+			id: 4,
+			name: 'hijab',
+			icon: 'icon__hijab.png',
+		},
+		{
+			id: 5,
+			name: 'pasmina',
+			icon: 'icon__pasmina.png',
+		},
+		{
+			id: 6,
+			name: 'koko',
+			icon: 'icon__koko.png',
+		},
+		{
+			id: 7,
+			name: 'shirt',
+			icon: 'icon__shirt.png',
+		},
+		{
+			id: 8,
+			name: 'sweeter',
+			icon: 'icon__sweeter.png',
+		},
+	]
+}
